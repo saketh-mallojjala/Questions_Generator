@@ -1,0 +1,34 @@
+[{'question_statement': 
+
+'What is the price index published by The Economist as an informal way of measuring the purchasing power parity between two currencies and providing a test of the extent to which market exchange rates result in goods costing the same in different countries?', 
+'question_type': 'MCQ', 
+'answer': 'big mac index',
+ 'id': 1, 
+'options': ['Purchasing Power Parity', 'Australian Minimum Wage', 'Us Gdp'], 
+'options_algorithm': 'sense2vec', 
+'extra_options': ['Price Index', 'Hdi', 'Oecd.'], 
+'context': 'For example, using figures for July 2023: The implied exchange rate according to the Big Mac index is 1.20 SFr/USD The actual exchange rate is 0.87 SFr/USD The Swiss franc is overvalued by 38.5% against the US dollar, that is (1.20-0.87)/0.87 = 38.5% Variants The Economist sometimes produces variants on the theme. Big Mac Index The Big Mac Index is a price index published since 1986 by The Economist as an informal way of measuring the purchasing power parity (PPP) between two currencies and providing a test of the extent to which market exchange rates result in goods costing the same in different countries. Big Mac Index The Big Mac Index is a price index published since 1986 by The Economist as an informal way of measuring the purchasing power parity (PPP) between two currencies and providing a test of the extent to which market exchange rates result in goods costing the same in different countries.'}, 
+
+{'question_statement': 
+
+'What is the purchasing power parity?', 
+'question_type': 'MCQ', 
+'answer': 'ppp', 
+'id': 2, 
+'options': ['+/-', 'Shp', 'Pim'],
+ 'options_algorithm': 'sense2vec',
+ 'extra_options': ['Atoi', 'G A'], 
+'context': 'A McDonald’s Big Mac was chosen because of the prevalence of the fast food chain worldwide, and because the sandwich remains largely the same across all countries.Although a single sandwich may seem overly simplistic for PPP theory, the price of a Big Mac is derived from the culmination of "many local economic factors, such as the price of the ingredients, local wages, or how much it costs to put up billboards and buy TV ads". Big Mac Index The Big Mac Index is a price index published since 1986 by The Economist as an informal way of measuring the purchasing power parity (PPP) between two currencies and providing a test of the extent to which market exchange rates result in goods costing the same in different countries. According to the Organisation for Economic Co-operation and Development (OECD), over "3,000 consumer goods and services, 30 occupations in government, 200 types of equipment goods and about 15 construction projects" are included in the current PPP calculations.'},
+
+
+ {'question_statement': 
+
+'What is the name of the fast food chain in the world?', 
+'question_type': 'MCQ', 
+'answer': 'mcdonald', 
+'id': 3, 
+'options': ['Burger King', 'Mcd', "Wendy'S"], 
+'options_algorithm': 'sense2vec', 
+'extra_options': ['Kfc', 'Taco Bell'], 
+
+'context': 'A McDonald’s Big Mac was chosen because of the prevalence of the fast food chain worldwide, and because the sandwich remains largely the same across all countries.Although a single sandwich may seem overly simplistic for PPP theory, the price of a Big Mac is derived from the culmination of "many local economic factors, such as the price of the ingredients, local wages, or how much it costs to put up billboards and buy TV ads". Social status of eating at fast food restaurants such as McDonald\'s in a local market, what proportion of sales might be to expatriates, local taxes, levels of competition, and import duties on selected items may not be representative of the country\'s economy as a whole. For example, in Africa McDonald\'s is only present in Morocco, Egypt, South Africa and Mauritius (there has been a similar index created solely for Africa called the "KFC Index": as the name suggests, instead of using a Big Mac, this index uses KFC\'s Original 15 pc.'}]

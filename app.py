@@ -9,7 +9,7 @@ st.write("Upload a PDF file for text extraction:")
 uploaded_file = st.file_uploader("Choose a PDF file", type=["pdf"])
 if uploaded_file is not None:
     if st.button("Extract Text"):
-         file_contents = uploaded_file.read()
+        file_contents = uploaded_file.read()
     # Convert bytes to a string
         file_contents_str = file_contents.decode('utf-8')
         text = extract_text_from_pdf(file_contents_str)

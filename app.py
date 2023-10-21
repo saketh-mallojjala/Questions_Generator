@@ -9,7 +9,7 @@ st.write("Upload a PDF file for text extraction:")
 uploaded_file = st.file_uploader("Choose a PDF file", type=["pdf"])
 if uploaded_file is not None:
     if st.button("Extract Text"):
-        text = extract_text_from_pdf(uploaded_file)
+        text = extract_text_from_pdf(str(uploaded_file))
 
         st.subheader("Extracted Text:")
         st.write(text)

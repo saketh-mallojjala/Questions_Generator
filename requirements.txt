@@ -16,3 +16,9 @@ flashtext==2.7
 pandas==1.5.3
 sentencepiece==0.1.99
 pdfminer.six
+git+https://github.com/ramsrigouthamg/Questgen.ai
+git+https://github.com/boudinfl/pke.git@69337af9f9e72a25af6d7991eaa9869f1322dd72
+# Commands to download NLTK data (uncomment these lines for deployment)
+# python -m nltk.downloader universal_tagset
+# python -m spacy download en
+
